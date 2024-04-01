@@ -8,7 +8,7 @@ THe link for csv file and its public data source available for everyone:
 **https://data.world/vizwiz/nyc-taxi-jan-2020/workspace/file?filename=yellow_tripdata_2020-01.csv**
 
 The complete explanation about the project is explained along with the code in the Notebook for clear understanding.
-The major Learnings from this is prject will be on 
->Descriptive Analysis
->Hypothesis Testing
->Regression Analysis
+The major Learnings from this is project will be on 
+>Descriptive Analysis,
+>Hypothesis Testing,
+>Regression Analysis.
